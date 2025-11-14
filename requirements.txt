@@ -1,0 +1,8 @@
+torch
+transformers
+bitsandbytes 
+streamlit 
+pyngrok
+accelerate
+sentencepiece
+python-dotenv
