@@ -1,4 +1,4 @@
-# 🎨 **`Project`: _Synaptic Codex Forge_**
+# 🖥️ **`Project`: _Synaptic Codex Forge_**
 <div align="center">
 
 ### 🤖 `Production-Ready Code-Gen`: **“An interactive Streamlit application powered by [`Large Language Models`](https://en.wikipedia.org/wiki/Large_language_model).”** <br>
